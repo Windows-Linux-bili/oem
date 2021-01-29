@@ -1,29 +1,29 @@
 # oem
 oem
-<li>###################</a>
-<li>#OS|Type|Brand|Key# by Windows_Linux_</a>
-<li>###################</a>
+<li>###################
+<li>#OS|Type|Brand|Key# by Windows_Linux_
+<li>###################
 <li>Vista|Ultimate|Acer|3YDB8-YY3P4-G7FCW-GJMPG-VK48C
-Vista|Ultimate|Advent|39MVW-K8KKQ-BGJ9B-24PMW-RYQMV
-Vista|Ultimate|Alienware|7QVFM-MF2DT-WXJ62-XTYX3-P9YTT
-Vista|Ultimate|Asus|6F2D7-2PCG6-YQQTB-FWK9V-932CC
-Vista|Ultimate|Dell|2QBP3-289MF-9364X-37XGX-24W6P
-Vista|Ultimate|DixonsXP|6JPQR-4G364-2B7P7-83FXW-DR8QC
-Vista|Ultimate|Gateway|6P8XK-GDDTB-X9PJQ-PYF36-G8WGV
-Vista|Ultimate|Hedy|7R2C3-DWCBG-C8G96-MPT8T-K37C7
-Vista|Ultimate|HP|23CM9-P7MYR-VFWRT-JGH7R-R933G
-Vista|Ultimate|Lenovo|24J6Q-YJJBG-V4K4Q-2J8HY-8HBQQ
-Vista|Ultimate|OQO|C4QGV-XHYYT-9PW8R-DCFTQ-FBD6M
-Vista|Ultimate|Toshiba|33G3W-JY3XQ-CQQ7C-TG96R-R6J6Q
-Vista|Ultimate|Sony|2KKTK-YGJKV-3WMRR-3MDQW-TJP47
-Vista|Ultimate|Stone|GVV4P-RQXD7-X9XKB-M2G9H-C93VM
-Vista|Ultimate|Velocity Micro|9BKKK-7Y888-MHD67-HHXTB-332K9
-Vista|Business|Acer|2TJTJ-C72D7-7BCYH-FV3HT-JGD4F
-Vista|Business|Asus|72PFD-BCBK8-R7X4H-6F2XJ-VVMP9
-Vista|Business|Dealin|HKYB8-CGVG9-6BXG6-6TXY7-HPB8C
-Vista|Business|Dell|368Y7-49YMQ-VRCTY-3V3RH-WRMG7
-Vista|Business|Fujitsu|4C3CM-H3RXM-VBMVQ-K8RHX-RTFX8
-#Vista|Business|Fujitsu Siemens|38BCP-97PJ6-3FRD8-YWWKH-9BJJ2
+<li>Vista|Ultimate|Advent|39MVW-K8KKQ-BGJ9B-24PMW-RYQMV
+<li>Vista|Ultimate|Alienware|7QVFM-MF2DT-WXJ62-XTYX3-P9YTT
+<li>Vista|Ultimate|Asus|6F2D7-2PCG6-YQQTB-FWK9V-932CC
+<li>Vista|Ultimate|Dell|2QBP3-289MF-9364X-37XGX-24W6P
+<li>Vista|Ultimate|DixonsXP|6JPQR-4G364-2B7P7-83FXW-DR8QC
+<li>Vista|Ultimate|Gateway|6P8XK-GDDTB-X9PJQ-PYF36-G8WGV
+<li>Vista|Ultimate|Hedy|7R2C3-DWCBG-C8G96-MPT8T-K37C7
+<li>Vista|Ultimate|HP|23CM9-P7MYR-VFWRT-JGH7R-R933G
+<li>Vista|Ultimate|Lenovo|24J6Q-YJJBG-V4K4Q-2J8HY-8HBQQ
+<li>Vista|Ultimate|OQO|C4QGV-XHYYT-9PW8R-DCFTQ-FBD6M
+<li>Vista|Ultimate|Toshiba|33G3W-JY3XQ-CQQ7C-TG96R-R6J6Q
+<li>Vista|Ultimate|Sony|2KKTK-YGJKV-3WMRR-3MDQW-TJP47
+<li>Vista|Ultimate|Stone|GVV4P-RQXD7-X9XKB-M2G9H-C93VM
+<li>Vista|Ultimate|Velocity Micro|9BKKK-7Y888-MHD67-HHXTB-332K9
+<li>Vista|Business|Acer|2TJTJ-C72D7-7BCYH-FV3HT-JGD4F
+<li>Vista|Business|Asus|72PFD-BCBK8-R7X4H-6F2XJ-VVMP9
+<li>Vista|Business|Dealin|HKYB8-CGVG9-6BXG6-6TXY7-HPB8C
+<li>Vista|Business|Dell|368Y7-49YMQ-VRCTY-3V3RH-WRMG7
+<li>Vista|Business|Fujitsu|4C3CM-H3RXM-VBMVQ-K8RHX-RTFX8
+Vista|Business|Fujitsu Siemens|38BCP-97PJ6-3FRD8-YWWKH-9BJJ2
 Vista|Business|Gateway|9GK24-BJJPV-93JB4-9CD3T-QTHDD
 Vista|Business|HP|2Q2WM-VCB98-8C6BG-C9BT2-3XDRY
 Vista|Business|Lenovo|2YRV9-YCY3F-FRJ4T-BKD6B-C47PP
